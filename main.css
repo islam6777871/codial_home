@@ -1,0 +1,232 @@
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+  display: flex;
+justify-content: space-between;
+
+}
+
+
+
+.navbar_option{
+    display: flex;
+    list-style: none;
+      gap: 40px;
+      font-family: Roboto;
+      align-items: center;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 3px;
+text-align: left;
+
+}
+.navbar_select{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 3px;
+text-align: left;
+align-items: center;
+}
+.navbar_heading{
+    font-family: 'Roboto';
+    font-weight:400;
+    font-size: xx-large;
+}
+.hero{
+ 
+   
+}
+.hero{
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   background-image: url(./static/bcg_img.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 765px;
+   
+}
+.hero_buttons{
+   display:flex;
+   flex-direction: column;
+   width: 302px;
+
+}
+.hero_title{
+    margin-top: 186px;
+    font-family: Roboto;
+font-size: 54px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 1.7999999523162842px;
+text-align: center;
+color:#0B3B3C;
+
+}
+.hero_info{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color:#0B3B3C;
+}
+.hero_button{
+    padding: 10px 100px;
+    background-color:#BFC3B4;
+    color: #7E0707;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    border-radius: 4px;
+    text-transform: uppercase;
+    border-color: #7E0707 ;
+    transition: all 0.4s ease-in-out;
+    width: 330px;
+    
+}
+.hero_button:hover{
+background-color:#7E0707;
+color: white;
+transition: all 0.4s ease-in-out;
+}
+.hero_button_second{
+   
+    padding: 10px 100px;
+    background-color:#BFC3B4;
+    color: #7E0707;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 142.857% */
+    border-radius: 4px;
+    text-transform: uppercase;
+    border-color: #7E0707 ;
+    transition: all 0.4s ease-in-out;
+    text-align: center;
+    width: 330px;
+    transition: all 0.4s ease-in-out;
+    cursor: pointer;
+    margin-top: 25px;
+}
+.hero_button_second:hover{
+    background-color:#7E0707;
+color: white;
+transition: all 0.4s ease-in-out;
+cursor: pointer;
+
+}
+.second_section{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.section_data{
+    display: flex;
+    gap: 20px;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+   
+}
+.third_section_title{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 1.2000000476837158px;
+text-align: center;
+color: 
+#0B3B3C;
+}
+.third_section_info{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+span{
+    color: 
+    #00B67A;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+}
+.container_card{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+ justify-content: space-between;
+
+}
+
+.container_data{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+
+.man_data{
+display: flex;
+justify-content: space-between;
+align-items: center;
+text-align: center;
+}
+.pic_data_title{
+    font-family: Roboto;
+font-size: 25px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.8399999737739563px;
+text-align: center;
+color: #0B3B3C;
+}
+.pic_data_script{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+color: #0B3B3C;
+
+}
+.arrow{
+    display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  
+}
+
